@@ -2,9 +2,17 @@
 
 A machine learning project exploring whether a student's eventual academic outcome can be predicted from information available at different stages of their university journey.
 
+
 This is one of my first end-to-end machine learning projects. I wanted to do more than train a model and report an accuracy score, so I worked through the project from data cleaning and exploratory analysis to model tuning, feature interpretation, and final evaluation.
 
 The project uses the **UCI Predict Students' Dropout and Academic Success** dataset, which contains records for 4,424 students.
+
+---
+## Live Demo
+
+[**Try the Streamlit App**](https://student-dropout-prediction-ml0.streamlit.app/)
+
+The interactive application allows users to enter student information and receive a predicted outcome with the model's probability distribution.
 
 ---
 
